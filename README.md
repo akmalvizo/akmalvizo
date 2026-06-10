@@ -276,17 +276,50 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 
 <div align="center">
 
+<!--
+  ⚠️  ACTION REQUIRED — Snake animation won't show until you do this:
+  1. Go to your profile repo: github.com/akmalvizo/akmalvizo
+  2. Create folder: .github/workflows/
+  3. Create file: .github/workflows/snake.yml  (see content below)
+  4. Run the Action manually once → it generates the SVG into the output branch
+  5. After that, the snake will appear here automatically every day
+
+  ──── snake.yml content ────────────────────────────────────────────
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: akmalvizo
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ────────────────────────────────────────────────────────────────────
+-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmalvizo/akmalvizo/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmalvizo/akmalvizo/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/akmalvizo/akmalvizo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akmalvizo/akmalvizo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚙️ **Setup:** Add a GitHub Action to your profile repo named `generate-snake.yml` to auto-generate the snake animation from your contribution graph.
+> 📌 **Snake not showing?** Follow the setup steps in the comment above this section to generate it via GitHub Actions.
 
 </div>
 
-<!-- Animated ML separator -->
+<!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- ████████████████████████████████████████████████████████████ -->
@@ -333,11 +366,16 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=akmalvizo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%"/>
+<!-- ✅ FIXED: Replaced broken github-contributor-stats (service offline) with direct repo cards -->
+
+[![Emotion-Aware Voice Processing](https://github-readme-stats.vercel.app/api/pin/?username=akmalvizo&repo=Emotion-Aware-Voice-Processing-for-Customer-Services&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF4ECD&text_color=c9d1d9)](https://github.com/akmalvizo/Emotion-Aware-Voice-Processing-for-Customer-Services)
+[![VizoMatch AI](https://github-readme-stats.vercel.app/api/pin/?username=akmalvizo&repo=VizoMatch-AI-Intelligent-Movie-Recommendation-Engine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF4ECD&text_color=c9d1d9)](https://github.com/akmalvizo/VizoMatch-AI-Intelligent-Movie-Recommendation-Engine)
+
+[![VizoBot AI](https://github-readme-stats.vercel.app/api/pin/?username=akmalvizo&repo=VizoBot-AI-Intelligent-Conversational-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF4ECD&text_color=c9d1d9)](https://github.com/akmalvizo/VizoBot-AI-Intelligent-Conversational-Assistant)
 
 </div>
 
-<!-- Animated ML separator -->
+<!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- ████████████████████████████████████████████████████████████ -->
