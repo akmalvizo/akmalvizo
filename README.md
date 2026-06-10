@@ -300,7 +300,7 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akmalvizo/akmalvizo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> 📌 **Snake not showing?** Follow the setup steps in the comment above this section to generate it via GitHub Actions.
+> 📌 **Powered by Python 🐍** — The backbone of modern AI and the world’s leading programming language.
 
 </div>
 
