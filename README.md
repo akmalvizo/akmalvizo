@@ -9,10 +9,6 @@
 <!-- Neural Network / ML Themed Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="AI/ML Animation"/>
 
-<br/>
-
-<br/><br/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=akmalvizo&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akmalvizo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF4ECD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akmal-a329352b0)
 [![GitHub](https://img.shields.io/badge/GitHub-akmalvizo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo)
@@ -250,12 +246,6 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 
 <img src="https://streak-stats.demolab.com/?user=akmalvizo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=8A2BE2&fire=FF4ECD&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8892a0" width="58%"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=akmalvizo&theme=algolia&no-frame=true&margin-w=8&column=6" width="92%"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akmalvizo&bg_color=0d1117&color=00D4FF&line=8A2BE2&point=FF4ECD&area_color=4F46E5&area=true&hide_border=true&title_color=00FF9D&custom_title=Muhammad%20Akmal%20%E2%80%94%20Contribution%20Graph" width="96%"/>
 
 </div>
@@ -405,9 +395,3 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 </div>
 
 <br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                      FOOTER                                -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,25:00D4FF,50:4F46E5,75:8A2BE2,100:FF4ECD&height=150&section=footer&text=Building%20the%20Future%20with%20AI%20%26%20Machine%20Learning%20%F0%9F%A4%96&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=58" width="100%"/>
