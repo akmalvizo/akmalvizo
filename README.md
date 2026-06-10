@@ -4,10 +4,10 @@
 <!--              HERO HEADER — Neural Wave Banner               -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,25:4F46E5,50:8A2BE2,75:FF4ECD,100:00FF9D&height=320&section=header&text=Muhammad%20Akmal&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=44&stroke=00D4FF&strokeWidth=3&desc=🤖%20Machine%20Learning%20Engineer%20%7C%20AI%20Developer%20%7C%20Deep%20Learning%20Specialist&descAlignY=63&descSize=17&descColor=b3f0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,25:4F46E5,50:8A2BE2,75:FF4ECD,100:00FF9D&height=320&section=header&text=Muhammad%20Akmal&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=44&stroke=00D4FF&strokeWidth=3&desc=🤖Junior%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast%20&descAlignY=63&descSize=17&descColor=b3f0ff" width="100%"/>
 
-<!-- Neural Network Animated Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Neural Network"/>
+<!-- Neural Network / ML Themed Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="AI/ML Animation"/>
 
 <br/>
 
@@ -32,13 +32,9 @@
 <!--                       ABOUT ME                             -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  &nbsp;Who Am I?
-</h2>
+<h2 align="center">🧑‍💻 Who Am I?</h2>
 
 <div align="center">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="AI Robot Coding"/>
 
 | | |
 |:---:|:---|
@@ -53,8 +49,6 @@
 
 </div>
 
-<br clear="right"/>
-
 <!-- Animated ML separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
@@ -66,6 +60,9 @@
 
 <div align="center">
 
+<table>
+<tr><td>
+
 ```
   Python           ████████████████████░░  90%   ⭐⭐⭐⭐⭐
   Machine Learning ██████████████████░░░░  82%   ⭐⭐⭐⭐⭐
@@ -76,6 +73,9 @@
   Voice / Audio AI ███████████████░░░░░░░  70%   ⭐⭐⭐⭐
   NLP / LLMs       █████████████░░░░░░░░░  60%   ⭐⭐⭐
 ```
+
+</td></tr>
+</table>
 
 </div>
 
@@ -90,12 +90,13 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bf9c6bf-ef38-4d52-af6b-d72a4f4d3e57.gif" width="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8c1f-de2a55f2b8be.gif" width="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60"/>
+<!-- ML-specific animated tech icons -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" title="Python"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8c1f-de2a55f2b8be.gif" width="60" title="TensorFlow"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" title="PyTorch"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60" title="Deep Learning"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bf9c6bf-ef38-4d52-af6b-d72a4f4d3e57.gif" width="60" title="Data Science"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" title="FastAPI"/>
 
 <br/><br/>
 
@@ -150,10 +151,6 @@
 
 <h2 align="center">🚀 Featured AI/ML Projects</h2>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="380" alt="AI Projects Animation"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -161,7 +158,7 @@
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<img src="https://img.shields.io/badge/PROJECT-FF4ECD?style=for-the-badge&logo=github&logoColor=white" width="120"/>
 
 ### 🎙️ Emotion-Aware Voice Processing
 *for Customer Service*
@@ -178,7 +175,7 @@ Real-time emotion detection from customer voice signals — enabling empathetic,
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://img.shields.io/badge/PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" width="120"/>
 
 ### 🎬 VizoMatch AI
 *Movie Recommendation Engine*
@@ -195,7 +192,7 @@ Hybrid content-based & collaborative filtering engine with a Streamlit UI for di
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<img src="https://img.shields.io/badge/PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=white" width="120"/>
 
 ### 🤖 VizoBot AI
 *Conversational Assistant*
@@ -234,9 +231,9 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 | 🏅 Credential | 🏛️ Institution | 📅 |
 |:---|:---|:---:|
 | 🎓 B.Sc. Computer Science | University of Education, Lahore | 2022–2026 |
-| 📜 FOC Certificate | Lincoln Corner | — |
-| 🐍 Crash Course on Python | Google / Coursera | — |
-| 🤝 Use AI as a Creative or Expert Partner | — | — |
+| 📜 FOC Certificate | Lincoln Corner | 2024-2025 |
+| 🐍 Crash Course on Python | Google / Coursera | 2023 |
+| 🤝 Use AI as a Creative or Expert Partner | Google / Coursera | 2026 |
 
 </div>
 
