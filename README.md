@@ -11,11 +11,6 @@
 
 <br/>
 
-<!-- Typing SVG — ML/AI themed lines -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=800&height=55&lines=🧠+Training+Neural+Networks+%7C+Deploying+AI+Models;🔊+Emotion+Detection+from+Voice+with+Librosa+%26+ML;📈+Scikit-Learn+%7C+TensorFlow+%7C+Keras+%7C+PyTorch;🤖+Building+VizoBot+AI+—+LLM-Powered+Assistant;🚀+Seeking+ML+%2F+AI+Engineer+Internship+Roles;⚡+Python+%7C+FastAPI+%7C+Deep+Learning+%7C+MLOps" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akmalvizo&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akmalvizo)
