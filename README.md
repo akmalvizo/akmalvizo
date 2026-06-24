@@ -1,18 +1,54 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--              HERO HEADER — Dark Neural Banner               -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:0a1628,100:0d1117&height=280&section=header&text=Muhammad%20Akmal&fontSize=72&fontColor=00D4FF&animation=fadeIn&fontAlignY=45&stroke=00D4FF&strokeWidth=1&desc=🤖%20Machine%20Learning%20Engineer%20%7C%20AI%20Builder%20%7C%20Python%20Developer&descAlignY=65&descSize=17&descColor=8ab4c9" width="100%"/>
+
 <div align="center">
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--              HERO HEADER — Neural Wave Banner               -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,25:4F46E5,50:8A2BE2,75:FF4ECD,100:00FF9D&height=320&section=header&text=Muhammad%20Akmal&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=44&stroke=00D4FF&strokeWidth=3&desc=🤖Junior%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast%20&descAlignY=63&descSize=17&descColor=b3f0ff" width="100%"/>
-
-<!-- Neural Network / ML Themed Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="AI/ML Animation"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="middle" align="left">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akmalvizo&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akmalvizo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF4ECD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akmal-a329352b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akmal-a329352b0)
 [![GitHub](https://img.shields.io/badge/GitHub-akmalvizo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo)
 [![Email](https://img.shields.io/badge/Email-akmal.vizo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmal.vizo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live-00D4FF?style=for-the-badge)](https://akmal-vizo-portfolio.vercel.app/)
+
+</td>
+<td valign="middle" align="right" width="240">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="220" alt="AI/ML Animation"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated ML separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--               PORTFOLIO — QUICK OVERVIEW                   -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+<h2>🌐 Explore My Full Profile</h2>
+
+<p>This GitHub shows my code — but my <strong>complete story</strong> lives on my portfolio.</p>
+
+<a href="https://akmal-vizo-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-akmal--vizo--portfolio.vercel.app-00D4FF?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+> 👤 **About Me** &nbsp;·&nbsp; 🧠 **Skills** &nbsp;·&nbsp; 🗂️ **Projects** &nbsp;·&nbsp; 🌐 **Web Work** &nbsp;·&nbsp; 🏅 **Certifications** &nbsp;·&nbsp; 💼 **Experience**
+>
+> *Everything about me — in one place. Click the link above to explore it all.*
 
 </div>
 
@@ -27,16 +63,9 @@
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🧠 | **Junior Machine Learning Engineer** focused on production-ready AI systems |
-| 🎓 | **B.Sc. Computer Science** — University of Education, Lahore (2022–2026) |
-| 📍 | **Lahore, Punjab, Pakistan** |
-| 🔊 | Passionate about **Voice AI, Emotion Detection, Deep Learning & LLMs** |
-| 🚀 | Currently Building → **VizoBot AI — Intelligent Conversational Assistant** |
-| 🌱 | Currently Learning → **Generative AI · MLOps · Transformers · Advanced DL** |
-| 💡 | Fun Fact → I enjoy teaching machines to learn while constantly learning from them 🤖 |
-| 📫 | Reach me at → **akmal.vizo@gmail.com** |
+*Junior Machine Learning Engineer passionate about building intelligent systems — from voice AI to deep learning. Currently pursuing B.Sc. Computer Science (2022–2026) at University of Education, Lahore, while working on real-world AI products.*
+
+[![About Me](https://img.shields.io/badge/Full%20About%20Me-Portfolio-8A2BE2?style=for-the-badge)](https://akmal-vizo-portfolio.vercel.app/)
 
 </div>
 
@@ -47,89 +76,44 @@
 <!--              ML SKILL PROFICIENCY BARS                     -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<h2 align="center">⚡ ML / AI Skill Proficiency</h2>
+<h2 align="center">⚡ Skills & Expertise</h2>
 
 <div align="center">
 
-<table>
-<tr><td>
+**🤖 Machine Learning**
 
-```
-  Python           ████████████████████░░  90%   ⭐⭐⭐⭐⭐
-  Machine Learning ██████████████████░░░░  82%   ⭐⭐⭐⭐⭐
-  Deep Learning    ████████████████░░░░░░  75%   ⭐⭐⭐⭐
-  TensorFlow/Keras ███████████████░░░░░░░  72%   ⭐⭐⭐⭐
-  Data Analysis    █████████████████░░░░░  78%   ⭐⭐⭐⭐
-  FastAPI          ████████████████░░░░░░  73%   ⭐⭐⭐⭐
-  Voice / Audio AI ███████████████░░░░░░░  70%   ⭐⭐⭐⭐
-  NLP / LLMs       █████████████░░░░░░░░░  60%   ⭐⭐⭐
-```
-
-</td></tr>
-</table>
-
-</div>
-
-<!-- Animated ML separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                     TECH STACK                             -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<div align="center">
-
-<!-- ML-specific animated tech icons -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" title="Python"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8c1f-de2a55f2b8be.gif" width="60" title="TensorFlow"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" title="PyTorch"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60" title="Deep Learning"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bf9c6bf-ef38-4d52-af6b-d72a4f4d3e57.gif" width="60" title="Data Science"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" title="FastAPI"/>
-
-<br/><br/>
-
-**🤖 Machine Learning & AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0d1117?style=for-the-badge&logo=pandas&logoColor=00D4FF)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=for-the-badge&logo=scipy&logoColor=8CAAE6)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
+![Regression](https://img.shields.io/badge/Regression-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Classification](https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
 
 <br/>
 
-**🐍 Programming & Backend**
+**🧠 Deep Learning**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br/>
-
-**📊 Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![CNN](https://img.shields.io/badge/CNN-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![RNN / LSTM](https://img.shields.io/badge/RNN%20%2F%20LSTM-0d1117?style=for-the-badge&logo=wave&logoColor=00D4FF)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 <br/>
 
-**🔊 Audio & Speech**
+**💻 Programming**
 
-![Librosa](https://img.shields.io/badge/Librosa-FF4ECD?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Speech Processing](https://img.shields.io/badge/Speech%20Processing-00FF9D?style=for-the-badge&logo=amazon-alexa&logoColor=black)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3670A0)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00D4FF)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=4C72B0)
 
 <br/>
 
-**⚙️ Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+[![View All Skills](https://img.shields.io/badge/🧠%20View%20All%20Skills-Portfolio-00D4FF?style=for-the-badge)](https://akmal-vizo-portfolio.vercel.app/)
 
 </div>
 
@@ -142,64 +126,20 @@
 
 <h2 align="center">🚀 Featured AI/ML Projects</h2>
 
+<div align="center">
+
+*A snapshot of what I build. For full details, case studies, and more projects — visit my portfolio.*
+
 <br/>
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
+[![🎙️ Emotion-Aware Voice Processing](https://img.shields.io/badge/🎙️%20Emotion--Aware%20Voice%20Processing-GitHub-FF4ECD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo/Emotion-Aware-Voice-Processing-for-Customer-Services)
+[![🎬 VizoMatch AI](https://img.shields.io/badge/🎬%20VizoMatch%20AI-GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo/VizoMatch-AI-Intelligent-Movie-Recommendation-Engine)
+[![🤖 VizoBot AI](https://img.shields.io/badge/🤖%20VizoBot%20AI-GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo/VizoBot-AI-Intelligent-Conversational-Assistant)
 
-<img src="https://img.shields.io/badge/PROJECT-FF4ECD?style=for-the-badge&logo=github&logoColor=white" width="120"/>
+<br/>
 
-### 🎙️ Emotion-Aware Voice Processing
-*for Customer Service*
+[![All Projects](https://img.shields.io/badge/🗂️%20See%20All%20Projects-Portfolio-00FF9D?style=for-the-badge)](https://akmal-vizo-portfolio.vercel.app/)
 
-![Voice AI](https://img.shields.io/badge/🔊%20VOICE%20AI-FF4ECD?style=flat-square)
-![ML](https://img.shields.io/badge/MACHINE%20LEARNING-4F46E5?style=flat-square)
-
-Real-time emotion detection from customer voice signals — enabling empathetic, intelligent automated service at scale.
-
-`Python` `FastAPI` `React` `Librosa` `ML`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo/Emotion-Aware-Voice-Processing-for-Customer-Services)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" width="120"/>
-
-### 🎬 VizoMatch AI
-*Movie Recommendation Engine*
-
-![Rec System](https://img.shields.io/badge/🎯%20REC%20SYSTEM-8A2BE2?style=flat-square)
-![ML](https://img.shields.io/badge/COLLABORATIVE%20FILTER-F7931E?style=flat-square)
-
-Hybrid content-based & collaborative filtering engine with a Streamlit UI for discovering the right films, every time.
-
-`Python` `Scikit-Learn` `Pandas` `Streamlit`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo/VizoMatch-AI-Intelligent-Movie-Recommendation-Engine)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=white" width="120"/>
-
-### 🤖 VizoBot AI
-*Conversational Assistant*
-
-![Conv AI](https://img.shields.io/badge/🤖%20LLM%20POWERED-00D4FF?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-00FF9D?style=flat-square)
-
-An LLM-powered assistant with contextual understanding, intent recognition, and accurate response generation.
-
-`Python` `NLP` `Deep Learning` `FastAPI`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo/VizoBot-AI-Intelligent-Conversational-Assistant)
-
-</td>
-</tr>
-</table>
 </div>
 
 <!-- Animated ML separator -->
@@ -213,18 +153,11 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"/> &nbsp;
-<b>Academic & Professional Achievements</b>
-&nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"/>
+*B.Sc. Computer Science @ University of Education, Lahore (2022–2026) · Google/Coursera certified in Python & AI · Continuously upskilling in Generative AI, MLOps & Transformers.*
 
-<br/><br/>
+<br/>
 
-| 🏅 Credential | 🏛️ Institution | 📅 |
-|:---|:---|:---:|
-| 🎓 B.Sc. Computer Science | University of Education, Lahore | 2022–2026 |
-| 📜 FOC Certificate | Lincoln Corner | 2024-2025 |
-| 🐍 Crash Course on Python | Google / Coursera | 2023 |
-| 🤝 Use AI as a Creative or Expert Partner | Google / Coursera | 2026 |
+[![Certifications & Education](https://img.shields.io/badge/🏅%20Full%20Credentials-Portfolio-4F46E5?style=for-the-badge)](https://akmal-vizo-portfolio.vercel.app/)
 
 </div>
 
@@ -238,11 +171,6 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akmalvizo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF4ECD&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalvizo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=akmalvizo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=8A2BE2&fire=FF4ECD&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8892a0" width="58%"/>
 
@@ -300,7 +228,7 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akmalvizo/akmalvizo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> 📌 **Powered by Python 🐍** — The backbone of modern AI and the world’s leading programming language.
+> 📌 **Powered by Python 🐍** — The backbone of modern AI and the world's leading programming language.
 
 </div>
 
@@ -319,24 +247,11 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 
 <br/><br/>
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-00FF9D?style=for-the-badge&logo=openai&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0a3d2e?style=for-the-badge&logo=openai&logoColor=00D4FF)
 ![MLOps](https://img.shields.io/badge/MLOps-00D4FF?style=for-the-badge&logo=mlflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF4ECD?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Advanced DL](https://img.shields.io/badge/Advanced%20Deep%20Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-<!-- Animated ML separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  RANDOM DEV QUOTE                          -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -350,8 +265,6 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 <h2 align="center">🔝 Top Contributed Repos</h2>
 
 <div align="center">
-
-<!-- ✅ FIXED: Replaced broken github-contributor-stats (service offline) with direct repo cards -->
 
 [![Emotion-Aware Voice Processing](https://github-readme-stats.vercel.app/api/pin/?username=akmalvizo&repo=Emotion-Aware-Voice-Processing-for-Customer-Services&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF4ECD&text_color=c9d1d9)](https://github.com/akmalvizo/Emotion-Aware-Voice-Processing-for-Customer-Services)
 [![VizoMatch AI](https://github-readme-stats.vercel.app/api/pin/?username=akmalvizo&repo=VizoMatch-AI-Intelligent-Movie-Recommendation-Engine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF4ECD&text_color=c9d1d9)](https://github.com/akmalvizo/VizoMatch-AI-Intelligent-Movie-Recommendation-Engine)
@@ -380,8 +293,8 @@ An LLM-powered assistant with contextual understanding, intent recognition, and 
 <a href="https://github.com/akmalvizo">
   <img src="https://img.shields.io/badge/GitHub-akmalvizo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://drive.google.com/drive/folders/13TyibtfCsbZAr_sDMCPuUEOEIREdnCtd?usp=sharing">
-  <img src="https://img.shields.io/badge/Portfolio-Google%20Drive-34A853?style=for-the-badge&logo=google-drive&logoColor=white"/>
+<a href="https://akmal-vizo-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-1F2937?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <br/><br/>
