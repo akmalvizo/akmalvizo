@@ -12,7 +12,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akmalvizo&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akmalvizo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akmal-a329352b0)
-[![GitHub](https://img.shields.io/badge/GitHub-akmalvizo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmalvizo)
 [![Email](https://img.shields.io/badge/Email-akmal.vizo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmal.vizo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live-00D4FF?style=for-the-badge)](https://akmal-vizo-portfolio.vercel.app/)
 
